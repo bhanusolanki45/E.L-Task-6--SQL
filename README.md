@@ -1,8 +1,10 @@
 # E.L-Task-6--SQL
 
 Sales Trend Analysis - PostgreSQL Project
+
 📊 Overview
 Monthly revenue and order volume analysis using PostgreSQL aggregations. This project demonstrates SQL skills including date functions, grouping, and trend analysis.
+
 🎯 Objective
 Analyze sales data to identify monthly trends, peak performance periods, and business insights using advanced SQL techniques.
 
